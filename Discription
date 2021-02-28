@@ -1,0 +1,16 @@
+<h1>jasonDB</h1>
+<h2>Discription</h2>
+  <p>This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations."</p>
+ <br>
+ <h2>Benefits of using jasonpowerDB</h2>
+ <p>
+ <ul>
+ <li>
+  Simplest way to retrieve data in a JSON format.</li>
+  <li>
+Schema-free, Simple to use, Nimble and In-Memory database.</li>
+<li>
+It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.</li>
+</li>
+It is low level (raw) form of data and is also human readable.</li>
+<li>It helps developers in faster coding, in-turn reduces development cost.</li>
